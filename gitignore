@@ -1,0 +1,12 @@
+# django #
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
+
+# Backup files #
+*.bak
+
+# itd, wykluczny te pliki których nie chcemy  wysyłac na git "
